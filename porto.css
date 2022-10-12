@@ -156,7 +156,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/bg1.jpg") no-repeat center;
+    background: url("bg1.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -202,7 +202,7 @@ section .title::after{
 
 /* about section styling */
 .about{
-    background: url("images/2.jpg") no-repeat center;
+    background: url("2.jpg") no-repeat center;
     color: rgb(0, 0, 0);
     background-size: cover;
 }
@@ -249,7 +249,7 @@ section .title::after{
 /* services section styling */
 .services {
     color:rgb(0, 0, 0);
-    background: url("images/3.jpg") no-repeat center;
+    background: url("3.jpg") no-repeat center;
     background-size: cover;
 }
 .services .title::before{
@@ -291,7 +291,7 @@ section .title::after{
 /* skills section styling */
 
 .skills{
-    background: url("images/4.jpg") no-repeat center;
+    background: url("4.jpg") no-repeat center;
     background-size: cover;
 }
 .skills .skills-content .column{
@@ -366,7 +366,7 @@ section .title::after{
 
 /* contact section styling */
 .contact{
-    background: url("images/5.jpg") no-repeat center;
+    background: url("5.jpg") no-repeat center;
     background-size: cover;
 }
 .contact .contact-content .column{
